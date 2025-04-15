@@ -1,4 +1,7 @@
 ## 🔴🟢 Red light Green light game, using MicroPython and a Raspberry Pi Pico.
+
+🤞 This is my initial project as I begin learning MicroPython and working with the Raspberry Pi Pico.
+
 This is a game based on the red light green ligth concept using a Raspberry Pi Pico, Breadboard, Button, LEDs, Jump Wires and a Speaker.
 
 ### Features
