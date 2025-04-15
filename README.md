@@ -26,7 +26,7 @@ This is a game based on the red light green ligth concept using a Raspberry Pi P
 - 1x Button.
 - 3x LEDs (red, green and yellow).
 - 1x Speaker.
-- 12 Jump Wire cables.
+- 12x Jump Wire cables.
 ---
 |Component🔌|GPIO Pin📍|  
 |---------|--------|
