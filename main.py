@@ -5,11 +5,12 @@ class RedLightGreenLightGame:
         from time import sleep
         import random
         
-        self.speaker = Speaker(11)
-        self.led_yellow = LED(12)
+        self.button = Button(15)
         self.led_red = LED(14)
         self.led_green = LED(13)
-        self.button = Button(15)   
+        self.led_yellow = LED(12)
+        self.speaker = Speaker(11)
+
         self.sleep = sleep
         self.random = random
         
