@@ -17,6 +17,7 @@ This is a game based on the red light green ligth concept using a Raspberry Pi P
 - 🏆 The player requires 20 steps for victory.
 ---
 ### Hardware requirements
+🖼️ See assets folder for images
 - 1x Raspberry Pi Pico.
 - 1x Breadboard.
 - 1x Button.
