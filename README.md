@@ -18,6 +18,7 @@ This is a game based on the red light green ligth concept using a Raspberry Pi P
 - 🟢 Green Light: Pressing the button during green light is not allowed — doing so results in elimination.
 - ⏲️ The red and green lights toggle randomly every 1 to 5 seconds, keeping you in suspense about when it’s safe to move.
 - 🏆 The player requires 20 steps for victory.
+- 👁️ Progress on steps and other information is displayed in the Thonny Shell.
 ---
 ### Hardware requirements:
 🖼️ See assets folder for images
